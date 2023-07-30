@@ -9,6 +9,7 @@ https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge
 ## Models
 * U-Net
 * DeepLabV3
+* SegNet
 
 ## Predictions
 
@@ -46,5 +47,21 @@ https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge
 ![App Screenshot](https://github.com/MorningStarTM/image-segmentation-for-self-driving-car/blob/main/images/s7.PNG?raw=true)
 
 
+### SegNet Prediction
+![App Screenshot](https://github.com/MorningStarTM/image-segmentation-for-self-driving-car/blob/main/images/sg1.PNG?raw=true) 
 
+![App Screenshot](https://github.com/MorningStarTM/image-segmentation-for-self-driving-car/blob/main/images/sg2.PNG?raw=true)
 
+![App Screenshot](https://github.com/MorningStarTM/image-segmentation-for-self-driving-car/blob/main/images/sg3.PNG?raw=true)
+
+![App Screenshot](https://github.com/MorningStarTM/image-segmentation-for-self-driving-car/blob/main/images/sg4.PNG?raw=true)
+
+![App Screenshot](https://github.com/MorningStarTM/image-segmentation-for-self-driving-car/blob/main/images/sg5.PNG?raw=true)
+
+![App Screenshot](https://github.com/MorningStarTM/image-segmentation-for-self-driving-car/blob/main/images/sg6.PNG?raw=true)
+
+![App Screenshot](https://github.com/MorningStarTM/image-segmentation-for-self-driving-car/blob/main/images/sg7.PNG?raw=true)
+
+![App Screenshot](https://github.com/MorningStarTM/image-segmentation-for-self-driving-car/blob/main/images/sg8.PNG?raw=true)
+
+![App Screenshot](https://github.com/MorningStarTM/image-segmentation-for-self-driving-car/blob/main/images/sg9.PNG?raw=true)
